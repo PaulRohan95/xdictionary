@@ -19,7 +19,7 @@ function Dictionary() {
         if (foundWord) {
             setDefinition(foundWord.meaning);
         } else {
-            setDefinition('Word not found in dictionary.');
+            setDefinition('Word not found in the dictionary.');
         }
     }
 
